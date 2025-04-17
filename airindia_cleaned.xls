@@ -1,0 +1,63 @@
+FlightName,FlightCode,DepartingCity,DepartingTime,ArrivingCity,ArrivingTime,Duration,Price,Dep_Time,Year,Month
+Air India,AI 621,Mumbai,03:55,Bengaluru,05:50,01 h 55 m,2307,2025-04-16 03:55:00,2025,4
+Air India,AI 607,Mumbai,16:40,Bengaluru,18:25,01 h 45 m,3578,2025-04-16 16:40:00,2025,4
+Air India,AI 604,Bengaluru,09:20,Mumbai,11:35,02 h 15 m,4621,2025-04-16 09:20:00,2025,4
+Air India,AI 864,Mumbai,07:00,New Delhi,09:15,02 h 15 m,4745,2025-04-16 07:00:00,2025,4
+Air India,AI 866,Mumbai,09:00,New Delhi,11:20,02 h 20 m,4745,2025-04-16 09:00:00,2025,4
+Air India,AI 809,Mumbai,10:00,New Delhi,12:20,02 h 20 m,4745,2025-04-16 10:00:00,2025,4
+Air India,AI 623,Mumbai,10:25,New Delhi,12:40,02 h 15 m,4745,2025-04-16 10:25:00,2025,4
+Air India,AI 442,Mumbai,15:35,New Delhi,18:10,02 h 35 m,4745,2025-04-16 15:35:00,2025,4
+Air India,AI 687,Mumbai,16:00,New Delhi,18:20,02 h 20 m,4745,2025-04-16 16:00:00,2025,4
+Air India,AI 560,New Delhi,07:10,Hyderabad,09:20,02 h 10 m,4750,2025-04-16 07:10:00,2025,4
+Air India,AI 542,New Delhi,09:30,Hyderabad,12:00,02 h 30 m,4750,2025-04-16 09:30:00,2025,4
+Air India,AI 522,New Delhi,11:05,Hyderabad,13:25,02 h 20 m,4750,2025-04-16 11:05:00,2025,4
+Air India,AI 544,New Delhi,17:00,Hyderabad,19:10,02 h 10 m,4750,2025-04-16 17:00:00,2025,4
+Air India,AI 839,New Delhi,21:30,Hyderabad,23:45,02 h 15 m,4750,2025-04-16 21:30:00,2025,4
+Air India,AI 865,New Delhi,10:00,Mumbai,12:30,02 h 30 m,4780,2025-04-16 10:00:00,2025,4
+Air India,AI 814,New Delhi,22:30,Mumbai,00:45,02 h 15 m,4780,2025-04-16 22:30:00,2025,4
+Air India,AI 441,New Delhi,17:15,Mumbai,19:30,02 h 15 m,4780,2025-04-16 17:15:00,2025,4
+Air India,AI 863,New Delhi,14:00,Mumbai,16:20,02 h 20 m,4780,2025-04-16 14:00:00,2025,4
+Air India,AI 620,New Delhi,13:30,Mumbai,15:40,02 h 10 m,4780,2025-04-16 13:30:00,2025,4
+Air India,AI 665,New Delhi,08:00,Mumbai,10:20,02 h 20 m,4780,2025-04-16 08:00:00,2025,4
+Air India,AI 805,New Delhi,20:00,Mumbai,22:10,02 h 10 m,4780,2025-04-16 20:00:00,2025,4
+Air India,AI 543,Hyderabad,10:05,New Delhi,12:30,02 h 25 m,5052,2025-04-16 10:05:00,2025,4
+Air India,AI 803,New Delhi,06:10,Bengaluru,09:00,02 h 50 m,5240,2025-04-16 06:10:00,2025,4
+Air India,AI 504,New Delhi,21:10,Bengaluru,00:05,02 h 55 m,5240,2025-04-16 21:10:00,2025,4
+Air India,AI 514,New Delhi,03:30,Bengaluru,06:25,02 h 55 m,5240,2025-04-16 03:30:00,2025,4
+Air India,AI 660,Mumbai,18:15,New Delhi,20:15,02 h,5281,2025-04-16 18:15:00,2025,4
+Air India,AI 605,New Delhi,21:15,Mumbai,23:35,02 h 20 m,5316,2025-04-16 21:15:00,2025,4
+Air India,AI 509,Bengaluru,19:35,New Delhi,22:35,03 h,5368,2025-04-16 19:35:00,2025,4
+Air India,AI 511,Bengaluru,14:55,New Delhi,18:20,03 h 25 m,5368,2025-04-16 14:55:00,2025,4
+Air India,AI 541,Hyderabad,16:25,New Delhi,18:50,02 h 25 m,5472,2025-04-16 16:25:00,2025,4
+Air India,AI 840,Hyderabad,20:50,New Delhi,23:20,02 h 30 m,5472,2025-04-16 20:50:00,2025,4
+Air India,AI 559,Hyderabad,06:15,New Delhi,08:45,02 h 30 m,5472,2025-04-16 06:15:00,2025,4
+Air India,AI 523,Hyderabad,14:10,New Delhi,16:35,02 h 25 m,5472,2025-04-16 14:10:00,2025,4
+Air India,AI 764,New Delhi,17:05,Kolkata,19:15,02 h 10 m,5492,2025-04-16 17:05:00,2025,4
+Air India,AI 767,New Delhi,12:20,Kolkata,14:30,02 h 10 m,5492,2025-04-16 12:20:00,2025,4
+Air India,AI 762,New Delhi,21:00,Kolkata,23:30,02 h 30 m,5492,2025-04-16 21:00:00,2025,4
+Air India,AI 813,New Delhi,08:00,Bengaluru,10:55,02 h 55 m,5503,2025-04-16 08:00:00,2025,4
+Air India,AI 804,Bengaluru,05:45,New Delhi,08:40,02 h 55 m,5618,2025-04-16 05:45:00,2025,4
+Air India,AI 503,Bengaluru,17:15,New Delhi,20:05,02 h 50 m,5618,2025-04-16 17:15:00,2025,4
+Air India,AI 641,Mumbai,18:55,Bengaluru,20:25,01 h 30 m,5783,2025-04-16 18:55:00,2025,4
+Air India,AI 501,Bengaluru,13:15,New Delhi,15:55,02 h 40 m,5881,2025-04-16 13:15:00,2025,4
+Air India,AI 806,Mumbai,08:00,New Delhi,10:15,02 h 15 m,5919,2025-04-16 08:00:00,2025,4
+Air India,AI 770,Kolkata,20:00,New Delhi,22:35,02 h 35 m,6063,2025-04-16 20:00:00,2025,4
+Air India,AI 768,Kolkata,15:25,New Delhi,18:10,02 h 45 m,6063,2025-04-16 15:25:00,2025,4
+Air India,AI 763,Kolkata,06:55,New Delhi,09:15,02 h 20 m,6063,2025-04-16 06:55:00,2025,4
+Air India,AI 502,New Delhi,13:40,Bengaluru,16:20,02 h 40 m,6343,2025-04-16 13:40:00,2025,4
+Air India,AI 807,New Delhi,17:00,Bengaluru,20:15,03 h 15 m,6343,2025-04-16 17:00:00,2025,4
+Air India,AI 815,New Delhi,15:35,Bengaluru,18:35,03 h,6343,2025-04-16 15:35:00,2025,4
+Air India,AI 401,New Delhi,06:55,Kolkata,09:00,02 h 05 m,6374,2025-04-16 06:55:00,2025,4
+Air India,AI 513,Bengaluru,07:05,New Delhi,10:00,02 h 55 m,6721,2025-04-16 07:05:00,2025,4
+Air India,AI 505,Bengaluru,09:50,New Delhi,12:35,02 h 45 m,6721,2025-04-16 09:50:00,2025,4
+Air India,AI 622,Bengaluru,12:05,Mumbai,14:00,01 h 55 m,6721,2025-04-16 12:05:00,2025,4
+Air India,AI 640,Bengaluru,06:45,Mumbai,08:35,01 h 50 m,6721,2025-04-16 06:45:00,2025,4
+Air India,AI 610,Bengaluru,19:20,Mumbai,21:20,02 h,6721,2025-04-16 19:20:00,2025,4
+Air India,AI 512,New Delhi,19:15,Bengaluru,22:35,03 h 20 m,7183,2025-04-16 19:15:00,2025,4
+Air India,AI 507,Bengaluru,11:45,New Delhi,14:35,02 h 50 m,7561,2025-04-16 11:45:00,2025,4
+Air India,AI 769,Kolkata,10:00,New Delhi,12:20,02 h 20 m,8100,2025-04-16 10:00:00,2025,4
+Air India,AI 506,New Delhi,09:40,Bengaluru,12:30,02 h 50 m,8233,2025-04-16 09:40:00,2025,4
+Air India,AI 603,Mumbai,06:45,Bengaluru,08:40,01 h 55 m,9458,2025-04-16 06:45:00,2025,4
+Air India,AI 808,Bengaluru,21:00,New Delhi,23:55,02 h 55 m,10711,2025-04-16 21:00:00,2025,4
+Air India,AI 639,Mumbai,09:20,Bengaluru,11:10,01 h 50 m,17018,2025-04-16 09:20:00,2025,4
+Air India,AI 642,Bengaluru,21:25,Mumbai,23:20,01 h 55 m,20581,2025-04-16 21:25:00,2025,4
